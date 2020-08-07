@@ -1,0 +1,40 @@
+.wrapper{
+	display: flex;
+	margin-top: 100px;
+}
+
+
+.item{
+	margin: auto;
+	margin-top: 100px;
+	border-radius: 10px;
+	background-color: #cddcb7;
+
+}
+
+body{
+	background-color: #cddcb7;
+	border: 20px solid #7db17d;
+	height: 1000px;
+	width: 1000px;
+	margin: auto;
+}
+
+button{
+	margin-left: 341.33px;
+}
+
+h3{
+	margin-top: 200px;
+	text-align: left;
+	width: 500px;
+	margin: auto;
+}
+
+.wrapper1{
+	display: flex;
+	margin-top: 100px;
+	margin-left: 0px;
+	width: 300px;
+	padding: auto;
+}
